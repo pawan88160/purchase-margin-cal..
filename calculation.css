@@ -1,0 +1,61 @@
+body{
+    height: 100vh;
+    width: 70%;
+    overflow: hidden;
+    background-image: linear-gradient(to right,#d1e4f2,#a4b2cd,#d62243);;
+}
+h1{
+    box-sizing: border-box;
+    top: 05%;
+    position: relative;
+    left: 40%;
+    height: 30px;
+    overflow: hidden;
+    width: 100%;
+}
+.maincontainor{
+    box-sizing: border-box;
+    top: 20%;
+    position: relative;
+    left: 50%;
+    overflow: hidden;
+    box-shadow: 10px 10px 8px 10px #888888;
+    height: 150px;
+    width: 400px;
+    border-radius: 15px;
+}
+table{
+    margin: 10px;
+    letter-spacing: 1px;
+}
+input{
+    width: 150%;
+    border-radius: 15px;
+}
+button{
+    border-radius: 15px;
+    cursor: pointer;
+    border: none;
+    margin-left: 30%;
+    width: 150px;
+    height: 30px;
+}
+button:hover{
+    background-color: #d6224394;
+    color: white;
+}
+.pcontainor{
+    box-sizing: border-box;
+    top: 30%;
+    position: relative;
+    left: 50%;
+    overflow: hidden;
+    height: 150px;
+    width: 400px;
+    text-align: center;
+
+}
+.pcontainor:hover{
+    box-shadow: 10px 10px 8px 10px #888888;
+    border-radius: 15px;
+}
